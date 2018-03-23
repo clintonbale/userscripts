@@ -6,6 +6,7 @@
 // @author       clintonbale
 // @match        https://my.questrade.com/trading/*
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 // refresh watchlists every 5 seconds
